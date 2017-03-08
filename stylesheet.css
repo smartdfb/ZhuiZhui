@@ -1,0 +1,12 @@
+.masthead {background-color: white;position: fixed;display: block;}
+.masthead-logo {float: left;margin-left:53px;margin-top: 37px;}
+.nav {font: "微软雅黑";font-size: 14px;color: black;float: left;}
+.nav:hover{color:#789263;text-decoration: none;outline: none;}
+ul li {list-style-type:none;}
+.nav-main li{float:left;margin-left: 44px;}
+.nav-main {float: left;margin-left: 217px;margin-top: 42px; }
+#search-bar {float: left;margin-left: 94px;margin-top: 42px;}
+.icon {float: left;margin: 0}
+#search-bar input{border-color: #fff, 0.3;color: #789263;font: "微软雅黑";opacity: 60%;}
+.header-image {width: 80%;}
+.rollingbanner img{margin-top: 110px;}
